@@ -138,6 +138,8 @@ height: 120vh;
         line-height: 1.5;
         text-align: justify;
         box-sizing:border box;
+        margin:0;
+        padding:0;
         
         
         
@@ -294,7 +296,7 @@ div{
         .secondsection{
          width: 120vh;
            height: 250vh;
-            font-size:17px;
+            font-size:15px;
           
      
         }
