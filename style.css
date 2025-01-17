@@ -137,6 +137,7 @@ height: 120vh;
         padding-right: 40px;
         line-height: 1.5;
         text-align: justify;
+        margin:0;
     }
      .thirdsection{
         height: 120vh;
@@ -288,12 +289,12 @@ div{
        
         .secondsection{
          width: 120vh;
-           height: 290vh;
+           height: 300vh;
           
      
         }
         .footer{
-        padding-left: 10%;
+        padding-left: 5%;
         }
      
         .social{
